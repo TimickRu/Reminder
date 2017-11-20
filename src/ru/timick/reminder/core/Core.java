@@ -12,6 +12,7 @@ public class Core {
     private Thread mainThread;
 
     public Core() {
+        System.out.println("Reminder beta (build 111)");
         System.out.println("Reminder core started");
 
         try {
